@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		xmlns:android   = "http://schemas.android.com/apk/res/android"
+		id        = "net.designhardware.crossreference"
+		version   = "0.0.2">
+		<name>Cross Reference Tool</name>
+		<description>Design Hardware Cross Reference Tool</description>
+		<author href="http://www.designhardware.net" email="samhadsall@designhardware.net">
+		Samuel Hadsall
+		</author>
+		<preference name="phonegap-version" value="3.1.0" />
+		<preference name="orientation" value="default" />
+		<preference name="show-splash-screen-spinner" value="true" />
+		<preference name="prerendered-icon" value="true" />
+		<preference name="stay-in-webview" value="false" />
+		<preference name="ios-statusbarstyle" value="black-opaque" />
+		<preference name="disable-cursor" value="true" />
+		<preference name="android-minSdkVersion" value="7" />
+		<preference name="android-maxSdkVersion" value="11" />
+		<preference name="android-installLocation" value="Auto" />	
+		<icon src="images/icon_57.png" gap:platform="ios" width="57" height="57" />
+		<icon src="images/icon_72.png" gap:platform="ios" width="72" height="72" />
+		<icon src="images/icon_114.png" gap:platform="ios" width="114" height="114" />
+		<!-- retina iPad support: PhoneGap 2.5.0+ only -->		
+		<icon src="images/icon_144.png" gap:platform="ios" width="144" height="144" />
+		<icon src="images/icon_48.png" gap:platform="android" gap:density="mdpi" />
+		<icon src="images/icon_72.png" gap:platform="android" gap:density="hdpi" />
+		<icon src="images/icon_96.png" gap:platform="android" gap:density="xhdpi" />
+		<icon src="images/icon_48.png" gap:platform="winphone" />
+		<gap:splash src="images/320x480.png" width="320" height="480" />
+		<gap:splash src="images/640x960.png" width="640" height="960" />
+		<gap:splash src="images/320x480.png" gap:platform="android" gap:density="mdpi" />
+		<gap:splash src="images/480x800.png" gap:platform="android" gap:density="hdpi" />
+		<gap:plugin name="ch.ti8m.documenthandler" />
+		<!--
+		  This allows your app to load assets from all *.designhardware.net domains
+		-->
+		<access origin="*" />
+	</widget>

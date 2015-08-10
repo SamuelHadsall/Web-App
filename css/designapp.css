@@ -1,0 +1,83 @@
+.text-align-center {
+  text-align: center;
+}
+.text-align-right {
+  text-align: right;
+}
+
+/*.header {position:fixed;z-index:10;top:0;width:100%}
+.content {padding:145px 15px}
+.footer {position:fixed;z-index:10;bottom:0;width:100%}
+*/
+
+/* Footer */
+.nav-glyphish-example .ui-btn .ui-btn-inner {
+    padding-top: 40px !important;
+	font-size:9px 
+}
+
+.nav-glyphish-example .ui-btn .ui-icon { 
+    width: 45px!important; 
+    height: 35px!important; 
+    margin-left: -24px !important; 
+    box-shadow: none!important; 
+    -moz-box-shadow: none!important; 
+    -webkit-box-shadow: none!important;
+    -webkit-border-radius: none !important;
+    border-radius: none !important; 
+}
+
+.contacts .ui-icon { 
+    background-image: url(imgs/glyphish-icons.png);
+    background-position: -50px -583px;
+    background-repeat: no-repeat; 
+}
+
+.installvid .ui-icon { 
+    background-image: url(imgs/glyphish-icons.png);
+    background-position: -432px -340px;
+    background-repeat: no-repeat; 
+}
+
+#installvid img{width:100%;}
+#results img {width:300px}
+
+.installVidDisplay {    
+    float: left;
+    font-size: 1.2em;
+    height: 48px;
+    margin: 5px auto 10px;
+    padding: 10px 30px 10px 20px;
+    width: 320px;
+}
+
+.installVidAbstract {
+    font-size: 0.6em;
+}
+
+.installVidMoreDetails {
+    font-style: italic;
+}
+
+.cf:before,
+.cf:after{
+  content:"";
+  display:table;
+}
+
+.cf:after{
+  clear:both;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+.cf{
+  zoom:1;
+}
+
+@media only screen and (max-width: 770px) {
+	img{
+		display:block;
+		width:100%;
+		height:auto;
+	}
+}

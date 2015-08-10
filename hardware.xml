@@ -1,0 +1,2324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hardware>
+<!--  Locksets -->
+  <!-- D1 Series -->
+  <lock id="198">
+    <other_combo>Arrow: D Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Lock<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="199">
+    <other_combo>Best: 82T/83T Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="200">
+    <other_combo>Cal-Royal: CRB800 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="201">
+    <other_combo>Cal-Royal: ICCRB800 Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="202">
+    <other_combo>Cal-Royal: CRB700 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="203">
+    <other_combo>Cal-Royal: ICCRB700 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="204">
+    <other_combo>Corbin Russwin: DL3100 Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="205">
+    <other_combo>Corbin Russwin: DL3000 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="206">
+    <other_combo>Dorma: D800 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="207">
+    <other_combo>Falcon: D100 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="208">
+    <other_combo>Hager: 3100 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="209">
+    <other_combo>PDQ: KT Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="210">
+    <other_combo>Schlage: B700 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d1-series_r1_c3.gif</design_img>
+		<design_combo>D1-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 1 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d1-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End D1 Series -->
+  <!-- D2 Series -->
+  <lock id="211">
+    <other_combo>Arrow: E Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="212">
+    <other_combo>Best: 72T/83T Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="213">
+    <other_combo>Cal-Royal: T360 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="214">
+    <other_combo>Cal-Royal: ID-60 Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="215">
+    <other_combo>Cal-Royal: ID-58 Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="216">
+    <other_combo>Cal-Royal: T220 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="217">
+    <other_combo>Cal-Royal: T330 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="218">
+    <other_combo>Cal-Royal: T362 Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="219">
+    <other_combo>Cal-Royal: ICT200 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="220">
+    <other_combo>Cal-Royal: ICT330 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="221">
+    <other_combo>Cal-Royal: LSD-01 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="222">
+    <other_combo>Cal-Royal: LSDD-88 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="223">
+    <other_combo>Corbin Russwin: DL2100 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="224">
+    <other_combo>Dorma: DB600 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="225">
+    <other_combo>Falcon: D200 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="226">
+    <other_combo>Hager: 3200 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="227">
+    <other_combo>Independence: ID-160 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="228">
+    <other_combo>Independence: ID-162 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="229">
+    <other_combo>PDQ: KV Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="230">
+    <other_combo>PDQ: KM Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="231">
+    <other_combo>Schlage: BC100 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="232">
+    <other_combo>Schlage: B500 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/products/locksets/d2-series_r1_c3.gif</design_img>
+		<design_combo>D2-Series Deadbolt Locks<![CDATA[<br/>]]>  Grade 2 Standard<![CDATA[<br/>]]>  Commercial and Residential Deadbolts</design_combo>
+		<design_url>http://www.designhardware.net/pdf/locksets/d2-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End D2 Series -->
+  <!-- EZ Series -->
+  <lock id="233">
+    <other_combo>Best: 83KW Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="234">
+    <other_combo>Best: 93KW Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="235">
+    <other_combo>Corbin Russwin: CL33900 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="236">
+    <other_combo>Hager: 3400 (Electrified) Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="237">
+    <other_combo>Sargent: 10 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+   <lock id="238">
+    <other_combo>Schlage: ND (EL) Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="239">
+    <other_combo>Yale: 5390LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="240">
+    <other_combo>Yale: 5391LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="241">
+    <other_combo>Yale: 5380LN Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="242">
+    <other_combo>Yale: 5381LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="243">
+    <other_combo>Yale: 5490LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="244">
+    <other_combo>Yale: 5491LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="245">
+    <other_combo>Yale: 5380LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <lock id="246">
+    <other_combo>Yale: 5381LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/e-z.png</design_img>
+		<design_combo>Electrified Z Series<![CDATA[<br/>]]>Grade 1 Standard</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/E-Z-Spec-Sheet.pdf</design_url>
+		<notes>Spec sheet for mechanical Z Series is also needed</notes>
+	</results>
+  </lock>
+  <!-- End EZ Series -->
+  <!-- I Series -->
+  <lock id="247">
+    <other_combo>Arrow: JL Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="248">
+    <other_combo>Cal-Royal: HIL Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="249">
+    <other_combo>Dorma: J200 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="250">
+    <other_combo>Falcon: H Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="251">
+    <other_combo>PDQ: CL Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="252">
+    <other_combo>Sargent: 7500 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="253">
+    <other_combo>Schlage: S200 Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="254">
+    <other_combo>Schlage: H Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="255">
+    <other_combo>Yale: 4800LN Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/i-series.png</design_img>
+		<design_combo>I-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/I-series/I-Series-Lever-Lock_Deadbolt.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End I Series -->
+  <!-- K2 Series -->
+  <lock id="256">
+    <other_combo>Arrow: MK Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="257">
+    <other_combo>Arrow: RK Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="258">
+    <other_combo>Best: 6K Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="259">
+    <other_combo>Cal-Royal: Barrington BA Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="260">
+    <other_combo>Corbin Russwin: 5600 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="261">
+    <other_combo>Corbin Russwin: CK4400 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="262">
+    <other_combo>Dorma: CK700 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="263">
+    <other_combo>Dorma: CK600 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="264">
+    <other_combo>Falcon: X Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="265">
+    <other_combo>Falcon: W Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="266">
+    <other_combo>Hager: 3500 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="267">
+    <other_combo>Independence: MK Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="268">
+    <other_combo>PDQ: SV Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="269">
+    <other_combo>Sargent: 6 Line Series </other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="270">
+    <other_combo>Sargent: 5500 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="271">
+    <other_combo>Schlage: A Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="272">
+    <other_combo>Yale: 5300 Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/k2-series.png</design_img>
+		<design_combo>K2-Series Door Knob Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Knob Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/K2-series/K2-Series-SD-Grade2-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End K2 Series -->
+  <!-- M Series -->
+  <lock id="273">
+    <other_combo>Arrow: AM Series</other_combo>
+    <dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="274">
+	<other_combo>Arrow: BM Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="275">
+	<other_combo>Best: 40H Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+   <lock id="276">
+	<other_combo>Cal-Royal: M Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="277">
+	<other_combo>Corbin Russwin: ML2000 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="278">
+	<other_combo>Dorma: ML9000 Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="279">
+	<other_combo>Dorma: MK9000 Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="280">
+	<other_combo>Falcon: M Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="281">
+	<other_combo>Hager: 3800 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="282">
+	<other_combo>PDQ: MR Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/m-series.png</design_img>
+		<design_combo>M-Series Door Locks<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Interconnected Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/M-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End M Series -->
+  <!-- V Series -->
+  <lock id="283">
+	<other_combo>Arrow: C Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="284">
+	<other_combo>Arrow: MP Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="284">
+	<other_combo>Best: 5K Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="285">
+	<other_combo>Cal-Royal: Challenger SG Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="286">
+	<other_combo>Corbin Russwin: CL3700 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="287">
+	<other_combo>Corbin Russwin: CL3700 Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="288">
+	<other_combo>Dorma: CL600 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="289">
+	<other_combo>Dorma: C400 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="290">
+	<other_combo>Falcon: W Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="291">
+	<other_combo>Falcon: Y Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="292">
+	<other_combo>PDQ: SW Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="293">
+	<other_combo>PDQ: SE Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="294">
+	<other_combo>Sargent: 6500 Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="295">
+	<other_combo>Schlage: S Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="296">
+	<other_combo>Yale: 4300LN Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/v-series.png</design_img>
+		<design_combo>V-Series Door Locks<![CDATA[<br/>]]>Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/V-series/V-Series-SD-Grade2-Lever-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End V Series -->
+  <!-- X Series -->
+  <lock id="297">
+	<other_combo>Arrow: L Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="298">
+	<other_combo>Arrow: ML Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="299">
+	<other_combo>Arrow: RL Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="300">
+	<other_combo>Best: 7KC Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="301">
+	<other_combo>Cal-Royal: Pioneer SL Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="302">
+	<other_combo>Cal-Royal: Pioneer CSL Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="303">
+	<other_combo>Cal-Royal: Pioneer XL Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="304">
+	<other_combo>Cal-Royal: Commander COM Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="305">
+	<other_combo>Corbin Russwin: CL3800 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="306">
+	<other_combo>Dorma: CL700 Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="307">
+	<other_combo>Falcon: B Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="308">
+	<other_combo>Hager: 3500 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="309">
+	<other_combo>Independence: IL Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="310">
+	<other_combo>PDQ: GP Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="311">
+	<other_combo>PDQ: SA Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="312">
+	<other_combo>PDQ: SD Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="313">
+	<other_combo>Sargent: 7 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="314">
+	<other_combo>Schlage: AL Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="315">
+	<other_combo>Yale: 5300LN Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/x-series-lock.png</design_img>
+		<design_combo>X-Series Door Locks<![CDATA[<br/>]]>Grade 1 and Grade 2 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/X-series/X-Series-HD-Grade1-Lock.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End X Series Locks -->
+  <!-- Z Series Locks -->
+  <lock id="316">
+	<other_combo>Arrow: H Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="316">
+	<other_combo>Arrow: H Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="317">
+	<other_combo>Best: 93 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="318">
+	<other_combo>Best: 9K Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="319">
+	<other_combo>Cal-Royal: Genesys GN Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="320">
+	<other_combo>Corbin Russwin: CL3500 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="321">
+	<other_combo>Corbin Russwin: CL3300 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="322">
+	<other_combo>Dorma: CL800 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="323">
+	<other_combo>Falcon: T Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="324">
+	<other_combo>Hager: 3400 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="325">
+	<other_combo>PDQ: GT Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="326">
+	<other_combo>PDQ: XGT Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="327">
+	<other_combo>Sargent: 10 Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="328">
+	<other_combo>Sargent: T Zone (11) Series </other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="329">
+	<other_combo>Schlage: ND Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="330">
+	<other_combo>Yale: 5400LN Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <lock id="331">
+	<other_combo>Yale: 6400LN Series</other_combo>
+	<dropdown_category>Locks &amp; Deadbolts</dropdown_category>
+	<results>
+		<design_img>images/Hardware/z-series_r1_c3.png</design_img>
+		<design_combo>Z Series Cylindrical<![CDATA[<br/>]]>Grade 1 Standard<![CDATA[<br/>]]>Door Locksets</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Locksets/Z-series/spec-sheet.pdf</design_url>
+	</results>
+  </lock>
+  <!-- End Z Series Locks -->
+  <!-- Exit Devices -->
+  <!-- Exit Device 1000R & F1000R -->
+  <exit-device id="2">
+	<other_combo>Arrow: S3800 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="86">
+	<other_combo>Cal-Royal: 9800 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="87">
+	<other_combo>Cal-Royal: 9900 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="88">
+	<other_combo>Cal-Royal: F9900 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device </design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="89">
+	<other_combo>Corbin Russwin: ED5200A Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="90">
+	<other_combo>Corbin Russwin: ED5200 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="91">
+	<other_combo>Dorma: 9000 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="92">
+	<other_combo>Falcon: 18-R Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="93">
+	<other_combo>Falcon: F-18-R Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="94">
+	<other_combo>Falcon: 25-R Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="95">
+	<other_combo>Falcon: F-25-R Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="96">
+	<other_combo>Hager: 4500 RIM Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="97">
+	<other_combo>PDQ: 6200 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="98">
+	<other_combo>Sargent: 8800 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="99">
+	<other_combo>Sargent: 12-8800 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="100">
+	<other_combo>Sargent: 8888 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="100">
+	<other_combo>Sargent: 8888 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="101">
+	<other_combo>Sargent: 12-8888 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="102">
+	<other_combo>Von Duprin: XP99 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="103">
+	<other_combo>Von Duprin: XP98 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="104">
+	<other_combo>Von Duprin: XP99-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="105">
+	<other_combo>Von Duprin: XP98-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="106">
+	<other_combo>Von Duprin: 99 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="107">
+	<other_combo>Von Duprin: 98 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="108">
+	<other_combo>Von Duprin: 99-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="109">
+	<other_combo>Von Duprin: 98-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="110">
+	<other_combo>Yale: 7100 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="111">
+	<other_combo>Yale: 7100(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="112">
+	<other_combo>Yale: 7150 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>F1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="113">
+	<other_combo>Yale: 7150(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>1000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <!-- End Exit Device 1000R & F1000R -->
+  <!-- Exit Device 1000V & F1000V -->
+  <exit-device id="114">
+	<other_combo>Arrow: S3700 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="115">
+	<other_combo>Cal-Royal: 9860 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="116">
+	<other_combo>Cal-Royal: 9960 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="116">
+	<other_combo>Cal-Royal: 9960 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="117">
+	<other_combo>Cal-Royal: F9960 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="118">
+	<other_combo>Corbin Russwin: ED5400 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="119">
+	<other_combo>Corbin Russwin: ED5400A Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="120">
+	<other_combo>Corbin Russwin: ED5470 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="121">
+	<other_combo>Falcon: 18-V Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="122">
+	<other_combo>Falcon: F-18-V Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="123">
+	<other_combo>Falcon: 25-V Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="124">
+	<other_combo>Falcon: F-25-V Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="125">
+	<other_combo>Hager: 4500 SVR Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="126">
+	<other_combo>Sargent: 8700 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="127">
+	<other_combo>Sargent: 12-8700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="128">
+	<other_combo>Sargent: NB8700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="129">
+	<other_combo>Von Duprin: 9927 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="130">
+	<other_combo>Von Duprin: 9827 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="131">
+	<other_combo>Von Duprin: 9927-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="132">
+	<other_combo>Von Duprin: 9827-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="133">
+	<other_combo>Yale: 7110 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="134">
+	<other_combo>Yale: 7110(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="135">
+	<other_combo>Yale: 7170 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="136">
+	<other_combo>Yale: 7170(F90) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>F1000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Heavy Duty Surface Vertical Rod</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/1000-series/1000-Series-HD-SVR-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <!-- End Exit Device 1000V & F1000V -->
+  <!-- Exit Device 2000R & and F2000R -->
+  <exit-device id="137">
+	<other_combo>Arrow: 500 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="138">
+	<other_combo>Arrow: S1250 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="139">
+	<other_combo>Cal-Royal: 2200 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="140">
+	<other_combo>Cal-Royal: 5000 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="141">
+	<other_combo>Cal-Royal: 5000V Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="142">
+	<other_combo>Corbin Russwin: ED8000 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="143">
+	<other_combo>Dorma: 8000 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="144">
+	<other_combo>Falcon: 17-R Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="145">
+	<other_combo>Falcon: F-17-R Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="146">
+	<other_combo>Falcon: 19-R Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="147">
+	<other_combo>Falcon: F-19-R Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="148">
+	<other_combo>Hager: 4700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="149">
+	<other_combo>Independence: 1100 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="150">
+	<other_combo>PDQ: 4200 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="151">
+	<other_combo>Sargent: P800 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="152">
+	<other_combo>Sargent: 12-P800 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="153">
+	<other_combo>Sargent: 3828 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="154">
+	<other_combo>Sargent: 12-3828 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="155">
+	<other_combo>Sargent: 2828 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="156">
+	<other_combo>Sargent: 12-2828 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="157">
+	<other_combo>Von Duprin: 22 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="158">
+	<other_combo>Von Duprin: 22-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="159">
+	<other_combo>Yale: 2100 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="160">
+	<other_combo>Yale: 2100(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000r.png</design_img>
+		<design_combo>F2000R Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="161">
+	<other_combo>Arrow: 600 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="162">
+	<other_combo>Arrow: S1150 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="163">
+	<other_combo>Cal-Royal: 2260 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="164">
+	<other_combo>Falcon: 17-V Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="165">
+	<other_combo>Falcon: F-17-V Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="166">
+	<other_combo>Falcon: 19-V Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="167">
+	<other_combo>Falcon: F-19-V Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="168">
+	<other_combo>Sargent: P700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="169">
+	<other_combo>Sargent: 12-P700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="170">
+	<other_combo>Sargent: 3727 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="171">
+	<other_combo>Sargent: 12-3727 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="172">
+	<other_combo>Sargent: 2727 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="173">
+	<other_combo>Sargent: 12-2727 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="174">
+	<other_combo>Von Duprin: 2227 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="175">
+	<other_combo>Von Duprin: 2227-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="176">
+	<other_combo>Yale: 2110 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <exit-device id="177">
+	<other_combo>Yale: 2100(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/2000v.png</design_img>
+		<design_combo>F2000V Series<![CDATA[<br/>]]>Grade 1 Standards<![CDATA[<br/>]]>Standard Duty Rim Exit Device</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Exit-Devices/2000-series/2000-Series-SD-Rim-Exit-Device.pdf</design_url>
+	</results>
+  </exit-device>
+  <!-- End Exit Device 2000R & and F2000R -->
+  <!-- ELR 1000R - 1000V -->
+  <exit-device id="178">
+	<other_combo>Corbin Russwin: ED5200 x M94 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="179">
+	<other_combo>Corbin Russwin: ED5400 x M94 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="180">
+	<other_combo>Falcon: EL-25-R Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="181">
+	<other_combo>Falcon: EL-25-V Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="182">
+	<other_combo>Hager: 4500 RIM (Electrified) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="183">
+	<other_combo>Hager: 4500 SVR (Electrified) Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="184">
+	<other_combo>Sargent: 56-8800 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="185">
+	<other_combo>Sargent: 56-12-8800 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-F1000R Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="186">
+	<other_combo>Sargent: 56-8700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="186">
+	<other_combo>Sargent: 56-12-8700 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-F1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="188">
+	<other_combo>Von Duprin: CX99 Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="189">
+	<other_combo>Von Duprin: CX98 Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R (case not smooth) Series </design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="190">
+	<other_combo>Von Duprin: CX99-F Series </other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-F1000R (case not smooth) Series </design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="191">
+	<other_combo>Von Duprin: CX98-F Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-F1000R (case not smooth) Series </design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="192">
+	<other_combo>Yale: 7100P Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-1000R (case not smooth) Series </design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="193">
+	<other_combo>Yale: 7100P(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000r.png</design_img>
+		<design_combo>ELR-F1000R Series </design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="194">
+	<other_combo>Yale: 7110P Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-F1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="195">
+	<other_combo>Yale: 7110P(F) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-F1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="196">
+	<other_combo>Yale: 7170P Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+  <exit-device id="197">
+	<other_combo>Yale: 7170P(F90) Series</other_combo>
+	<dropdown_category>Exit Devices</dropdown_category>
+	<results>
+		<design_img>images/Hardware/1000v.png</design_img>
+		<design_combo>ELR-F1000V Series</design_combo>
+		<design_url>http://designhardware.net/pdf/2013specbook/Electrified/ELR-1000-Exit-Device.pdf</design_url>
+		<notes>Spec sheet for mechanical 1000 Series is also needed</notes>
+	</results>
+  </exit-device>
+</hardware>
+	

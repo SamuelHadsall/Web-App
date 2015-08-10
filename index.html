@@ -1,0 +1,276 @@
+<!-- 
+TO DO FOR NEXT VERSION: 
+For next version pull external pages in with ajax - Using xml file instead
+Solve audio issues with install videos on iOS
+Convert Install videos to html5 instead of pulling from Youtube.com
+Local storage?
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <title>Design Hardware | Cross Reference Tool</title>
+        <link href="css/jquery.mobile-1.4.1.min.css" rel="stylesheet" type="text/css" /> 
+        <link href="css/designapp.css" rel="stylesheet" type="text/css" /> 
+        <script src="js/jquery-1.11.0.js"></script>
+        <script src="js/jquery.mobile-1.4.1.min.js"></script>
+        <!-- Phonegap Library to be included at build -->
+		<script src="phonegap.js"></script>
+        <script src="js/index.js"></script>
+    </head>
+    <body onLoad="onDeviceReady()">    
+    <!------------------------------------------------------ Home -------------------------------------------------------->        
+     <div data-role="page" id="Home">
+     	<!-- Header -->
+        <header data-theme="b" data-role="header" class="header">            
+                <h3>
+                    Design Hardware&trade;
+                </h3>       
+         </header>
+         <!-- /Header -->
+         <section role="main" class="ui-content">
+         	<figure>         
+                <div style="text-align:center">
+                    <img src="images/DesignDCrossReference.png" />
+                </div>
+            </figure>
+            <nav>                
+                <a data-role="button" data-transition="flow" data-theme="b" id="locks" href="#Locks" data-icon="forward" data-iconpos="right">
+            		Locks &amp; Deadbolts
+        		</a>
+        		<a data-role="button" data-transition="flow" data-theme="b" href="#Exits" data-icon="forward" data-iconpos="right">
+           			 Exit Devices
+        		</a>
+        		<a data-role="button" data-transition="flow" data-theme="b" href="#Closers" data-icon="forward" data-iconpos="right">
+           			 Door Closers
+       			 </a>  	            
+        	</nav>
+        </section>
+        <footer data-role="footer" class="nav-glyphish-example footer" data-theme="d" data-position="fixed"> 
+          <div data-role="navbar" class="nav-glyphish-example"> 
+            <ul>                 
+                <li><a href="#contact" class="contacts" data-icon="custom" data-rel="dialog" data-transition="pop">Contacts</a></li>
+                <li><a href="#installvid" class="installvid" data-icon="custom">Install Videos</a></li>                
+            </ul> 
+            </div> 
+       </footer>
+   </div>
+   <!---------------------------------------- Locks --------------------------------------------------------------------------->
+   <div data-role="page" id="Locks">
+     	<!-- Header -->
+        <header data-theme="b" data-role="header" class="header">            
+                <h3>
+                    Design Hardware&trade;
+                </h3>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#Home" data-theme="a" data-icon="home" data-transition="flip" data-iconpos="bottom">Home</a></li>
+                        <li><a href="#Locks" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Locks</a></li>
+                        <li><a href="#Exits" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Exits</a></li>
+                        <li><a href="#Closers" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Closers</a></li>
+                    </ul>
+                </div>       
+         </header>
+         <!-- /Header -->
+         <section data-role="content" class="content">
+         	<figure>         
+                <div style="text-align:center">
+                    <img src="images/Hardware/x-series-lock.png" />
+                </div>
+            </figure>
+            <article>                
+                   <div class="ui-field-contain">
+                      <select name="category_locksets" id="category_locksets">
+                          <option id="0" value="0" selected="selected">Locks &amp; Deadbolts...</option>
+                      </select>
+                      <a href="#" id="search_locksets" data-role="button" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-search">Search Locks</a>
+                    </div>
+               <div id="lockset_results"></div>   
+        	</article>
+        </section>
+        <footer data-role="footer" class="nav-glyphish-example footer" data-theme="d" data-position="fixed"> 
+          <div data-role="navbar" class="nav-glyphish-example"> 
+            <ul>                 
+                <li><a href="#contact" class="contacts" data-icon="custom" data-rel="dialog" data-transition="pop">Contacts</a></li>
+                <li><a href="#installvid" class="installvid" data-icon="custom">Install Videos</a></li>                
+            </ul> 
+            </div> 
+       </footer>
+   </div>
+   <!---------------------------------------- Exit Devices --------------------------------------------------------------------------->
+   <div data-role="page" id="Exits">
+     	<!-- Header -->
+        <header data-theme="b" data-role="header" class="header">            
+                <h3>
+                    Design Hardware&trade;
+                </h3>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#Home" data-theme="a" data-icon="home" data-transition="flip" data-iconpos="bottom">Home</a></li>
+                        <li><a href="#Locks" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Locks</a></li>
+                        <li><a href="#Exits" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Exits</a></li>
+                        <li><a href="#Closers" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Closers</a></li>
+                    </ul>
+                </div>       
+         </header>
+         <!-- /Header -->
+         <section data-role="content" class="content">
+         	<figure>         
+                <div style="text-align:center">
+                    <img src="images/Hardware/x-series-lock.png" />
+                </div>
+            </figure>
+            <article>                
+                <div class="ui-field-contain">
+                  <select name="category_exit_devices" id="category_exit_devices">
+                      <option id="0" value="0" selected="selected">Exit Devices...</option>
+                  </select>
+                  <a id="search_exit_devices" href="#" data-role="button" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-search">Search Exit Devices</a>
+                </div>                
+               <div id="exit_device_results"></div>   
+        	</article>
+        </section>
+        <footer data-role="footer" class="nav-glyphish-example footer" data-theme="d" data-position="fixed"> 
+          <div data-role="navbar" class="nav-glyphish-example"> 
+            <ul>                 
+                <li><a href="#contact" class="contacts" data-icon="custom" data-rel="dialog" data-transition="pop">Contacts</a></li>
+                <li><a href="#installvid" class="installvid" data-icon="custom">Install Videos</a></li>                
+            </ul> 
+            </div> 
+       </footer>
+   </div>
+   <!---------------------------------------- Door Closers --------------------------------------------------------------------------->
+   <div data-role="page" id="Closers">
+     	<!-- Header -->
+        <header data-theme="b" data-role="header" class="header">            
+                <h3>
+                    Design Hardware&trade;
+                </h3>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#Home" data-theme="a" data-icon="home" data-transition="flip" data-iconpos="bottom">Home</a></li>
+                        <li><a href="#Locks" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Locks</a></li>
+                        <li><a href="#Exits" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Exits</a></li>
+                        <li><a href="#Closers" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Closers</a></li>
+                    </ul>
+                </div>       
+         </header>
+         <!-- /Header -->
+         <section data-role="content" class="content">
+         	<figure>         
+                <div style="text-align:center">
+                    <img src="images/Hardware/x-series-lock.png" />
+                </div>
+            </figure>
+            <article>
+            	<div class="ui-field-contain">
+                   <select name="category_door_closers" id="category_door_closers">
+                      <option id="0" value="0" selected="selected">Door Closers...</option>
+                  </select>
+                  <a id="search_door_closers" href="#" data-role="button" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-search">Search Door Closers</a>
+               </div>
+               <div id="door_closer_results"></div>   
+        	</article>
+        </section>
+        <footer data-role="footer" class="nav-glyphish-example footer" data-theme="d" data-position="fixed"> 
+          <div data-role="navbar" class="nav-glyphish-example"> 
+            <ul>                 
+                <li><a href="#contact" class="contacts" data-icon="custom" data-rel="dialog" data-transition="pop">Contacts</a></li>
+                <li><a href="#installvid" class="installvid" data-icon="custom">Install Videos</a></li>                
+            </ul> 
+            </div> 
+       </footer>
+   </div>      
+      <!-- Start Installation Videos / Because of the complication that iOS has with playing audio, the videos just link to "youtube.com" 		       ------------------------------------------------------------------------------------------------>
+        <div data-role="page" id="installvid" data-add-back-btn="true" data-back-btn-text="Back">
+            <div data-theme="b" data-role="header">
+                <h3>
+                    Design Hardware&trade;
+                </h3>
+                <div data-role="navbar">
+                    <ul>
+                        <li><a href="#Home" data-theme="a" data-icon="home" data-transition="flip" data-iconpos="bottom">Home</a></li>
+                        <li><a href="#Locks" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Locks</a></li>
+                        <li><a href="#Exits" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Exits</a></li>
+                        <li><a href="#Cosers" data-theme="a" data-icon="grid" data-transition="flip" data-iconpos="bottom">Closers</a></li>
+                    </ul>
+                </div>
+            </div>
+         <section data-role="content" class="content">
+		<div id="wrapper">
+                <!-- 116 Door Closers ------------------------------------------------------------------------------------------------------>
+                <div class="installVidDisplay">
+                    116-Series Door Closers<br />
+                <span class="installVidAbstract installVidMoreDetails">Regular Arm - Parallel Arm - Top Jam Mount</span>
+                </div>
+                <div class="cf"></div>
+                <a href="http://www.youtube.com/watch?v=TmM6N8C-bAM" target="_blank"><img src="http://img.youtube.com/vi/TmM6N8C-bAM/0.jpg" /></a>
+                <a href="http://www.youtube.com/watch?v=Xhs3olkwifA" target="_blank"><img src="http://img.youtube.com/vi/Xhs3olkwifA/0.jpg" /></a>
+                <a href="http://www.youtube.com/watch?v=3feovh5TedE" target="_blank"><img src="http://img.youtube.com/vi/3feovh5TedE/0.jpg" /></a>
+                <div class="cf"></div>
+                <!-- 316 Door Closer ------------------------------------------------------------------------------------------------------------->          
+                <div class="installVidDisplay">
+                 316-Series Door Closers<br />
+                <span class="installVidAbstract installVidMoreDetails">Regular Arm - Parallel Arm - Top Jam Mount</span>
+                </div>
+                 <div class="cf"></div>
+                 <a href="http://www.youtube.com/watch?v=Ze62YiAPuKY" target="_blank"><img src="http://img.youtube.com/vi/Ze62YiAPuKY/0.jpg" /></a>
+                <a href="http://www.youtube.com/watch?v=xVlyzOMhGaM" target="_blank"><img src="http://img.youtube.com/vi/xVlyzOMhGaM/0.jpg" /></a>
+                <a href="http://www.youtube.com/watch?v=9ekOTcMwLzk" target="_blank"><img src="http://img.youtube.com/vi/9ekOTcMwLzk/0.jpg" /></a>
+                 <div class="cf"></div>
+                 <!-- 416 Door Closers -------------------------------------------------------------------------------------------------------->            
+                 <div class="installVidDisplay">
+                 416-Series Door Closers<br />
+                 <span class="installVidAbstract installVidMoreDetails">Regular Arm - Parallel Arm</span>
+                 </div>
+                 <div class="cf"></div>
+                 <a href="http://www.youtube.com/watch?v=NBUc_VZGsYA" target="_blank"><img src="http://img.youtube.com/vi/NBUc_VZGsYA/0.jpg" /></a>
+                 <a href="http://www.youtube.com/watch?v=TTSeH8Bu2SQ" target="_blank"><img src="http://img.youtube.com/vi/TTSeH8Bu2SQ/0.jpg" /></a>
+                 <div class="cf"></div>
+                 <!-- 1000 Rim Panic ---------------------------------------------------------------------------------------------------------->            
+                 <div class="installVidDisplay">
+                 1000 Rim Panic Device<br />
+                 <span class="installVidAbstract installVidMoreDetails">Exit Devices</span>
+                 </div>
+                 <div class="cf"></div>
+                 <a href="http://www.youtube.com/watch?v=eAuFIiyzTAE" target="_blank"><img src="http://img.youtube.com/vi/eAuFIiyzTAE/0.jpg" /></a>
+                 <div class="cf"></div>
+                 <!-- 2000 Rim Panic ------------------------------------------------------------------------------------------------------------>      
+                 <div class="installVidDisplay">
+                 2000 Rim Panic Device<br />
+                 <span class="installVidAbstract installVidMoreDetails">Exit Devices</span>
+                 </div>
+                 <div class="cf"></div>
+                 <a href="http://www.youtube.com/watch?v=C-U6kQY8498" target="_blank"><img src="http://img.youtube.com/vi/C-U6kQY8498/0.jpg" /></a>
+		  </div>
+          </section>
+        <footer data-role="footer" class="nav-glyphish-example footer" data-theme="d">             
+            <div data-role="navbar" class="nav-glyphish-example"> 
+            <ul>                 
+                <li><a class="contacts" data-icon="custom" data-rel="dialog" data-transition="pop">Contacts</a></li>
+                <li><a href="#installvid" class="installvid" data-icon="custom">Install Videos</a></li>                     
+            </ul> 
+            </div>         
+        </footer>
+        </div><!-- Installation Videos End -->  	
+        <!-- Start Contact page: data-transition=pop -->
+        <div data-role="page" id="contact">
+            <div data-role="header" data-theme="b">
+                <h1>Contact Us</h1>
+            </div><!-- /header -->
+            <div data-role="content" data-theme="d">	
+                <h2>Design Hardware&trade;</h2>
+                <p>1108 Center Rd.<br>
+                Rogersville, MO 65742<br>
+                Phone: <a href='tel:877.258.1262'>877.258.1262</a><br>
+                Fax: 877.888.0150</p>		
+                <p><a href="#" data-rel="back" data-role="button" data-inline="true" data-icon="back" data-theme="b">Go Back To Your Search</a></p>	
+            </div><!-- /content -->	
+        <div data-role="footer">
+            <h4>Design Hardware&trade;</h4>
+        </div><!-- /footer -->
+      </div><!-- /page popup -->
+    </body>
+</html>
